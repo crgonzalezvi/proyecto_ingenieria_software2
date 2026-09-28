@@ -1,19 +1,25 @@
-**Primera Entrega de Proyecto \- Ingeniería de Software II**
+<div align="center">
 
-![][image1]
+# Primera Entrega de Proyecto
+## Ingeniería de Software II
 
-**Presentado a:**  
-**[Jose Albeiro Montes Gil](mailto:joamontesgi@unal.edu.co)**
+---
 
-**Presentado por:**  
-[**Cristian Camilo Gonzalez Villa**](mailto:crgonzalezvi@unal.edu.co)  
-**Miguel Ángel Ocampo Loaiza**
+**Presentado a:**
+[Jose Albeiro Montes Gil](mailto:joamontesgi@unal.edu.co)
 
-**Universidad Nacional de Colombia**  
-**Facultad de administración**  
-**Departamento de informática y computación**  
-**Manizales, Caldas**  
- **28 de Septiembre de 2026**
+**Presentado por:**
+[Cristian Camilo Gonzalez Villa](mailto:crgonzalezvi@unal.edu.co)
+Miguel Ángel Ocampo Loaiza
+
+**Universidad Nacional de Colombia**
+Facultad de Administración
+Departamento de Informática y Computación
+Manizales, Caldas
+
+*28 de septiembre de 2026*
+
+</div>
 
 **Sistemas elegidos**
 
